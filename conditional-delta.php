@@ -108,7 +108,7 @@ function cf_custom_cond_delta_fields() {
             'type' => 'advanced',
             'required' => false,
             'magic' => true,
-            'allow_types' => array('label'),
+            'allow_types' => array('hidden'),
             'exclude' => array('system', 'variables'),
             'desc' => 'If you want to show the incremented value in the entries, select a hidden field in form to capture the value in.'
         )

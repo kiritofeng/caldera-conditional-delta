@@ -1,17 +1,10 @@
 # caldera-conditional-delta
 
+**Note: This repository is now archived, as it is part of my personal fork of Caldera Forms.**
+
 Conditional Delta Plugin for Caldera Forms.
 
 Essentially, a more powerful version of the built-in Caldera-Increment, that works with conditionals, and can have additional parameters set, such as min and max values, and a custom delta value.
-
-## Personal Rant
-
-This was some of the worst brain-damage I have made myself endure.
-I *cannot* stress enough how unenjoyable this process was.
-
-![Obligatory XKCD](https://imgs.xkcd.com/comics/pain_rating.png)
-
-Yes, I had to re-calibrate my personal scale for pain over these two files.
 
 ## Features
 
